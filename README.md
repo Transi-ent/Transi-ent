@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="font-size: 42px; font-weight: 300; letter-spacing: 2px;">Hi, I'm [Transi-ent]</h1>
+  <h1 style="font-size: 42px; font-weight: 300; letter-spacing: 2px;">Hi, I'm Transi-ent</h1>
 </div>
 
 
